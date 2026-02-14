@@ -1,1 +1,11 @@
-Hash 1: 01b3575d0dd50e5cba769992cdf85f8c.dir
+ДЗ№1: Хеш 32a3ad29f707708abd9f3d9570529d47
+
+
+ДЗ№2:https://github.com/Evgeniy156/homework-2/pull/1/commits
+
+
+Первый хеш (исходные файлы): 01b3575d0dd50e5cba769992cdf85f8c.dir 
+
+Второй хеш (после удаления кота image-3.jpg): 05d1e69aae43892cfa9e81e03f2672c3.dir
+
+Третий хеш (в новой ветке с добавленными фото): 4027a4b6aafb268a72e6930fd6870303.dir
