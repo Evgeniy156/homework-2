@@ -1,0 +1,8 @@
+[core]
+    remote = myremote
+    autostage = true
+['remote "myremote"']
+    url = s3://kalininevgeny
+    endpointurl = http://85.239.47.84:9000
+    access_key_id = kalininevgeny
+    secret_access_key = VeryLongRandomSecret123
